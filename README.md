@@ -1,2 +1,2 @@
-# Laforteza_FirstExamination
+# Examination
 First Exam in Data Structure
